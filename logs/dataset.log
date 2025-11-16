@@ -1,0 +1,2 @@
+2025-11-16 12:58:05,041 INFO CharacterDataset: Initialized CharacterDataset with 146 images (resolution=1024)
+2025-11-16 12:58:05,146 ERROR CharacterDataset: Error loading image /home/pablo/Projects/AI/lora_training/yamaska/dataset/10.prompt: cannot identify image file '/home/pablo/Projects/AI/lora_training/yamaska/dataset/10.prompt'
